@@ -1,0 +1,1 @@
+export const api = 'https://admin.senscare.sdsstaging.co.uk'
